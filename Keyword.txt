@@ -1,0 +1,12 @@
+Data Modeling In Power BI.
+
+1. Data Modeling Usually process in Power Query .
+2. Append Query
+3. Merge Query 
+4. Dimensional Model
+ i) Fact Table
+ ii) Dimension Table
+
+5. Star Schema
+6. Snowflae schema
+7.  	 
